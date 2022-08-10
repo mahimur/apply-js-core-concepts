@@ -8,3 +8,4 @@ function factorial(number) {
 }
 const result = factorial(7);
 console.log(result);
+
